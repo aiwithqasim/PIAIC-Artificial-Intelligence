@@ -1,15 +1,15 @@
 <h1 align="center">
     <a href="https://github.com/qasim1020/PIAIC-Artifical-Intelligence">
-        <img src="https://github.com/qasim1020/PIAIC-Artifical-Intelligence/blob/test/Images/logo.png">
+        <img src="https://github.com/qasim1020/PIAIC-Artificial-Intelligence/blob/master/Images/logo.png">
     </a>
     
   <br/>
   <br/>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/qasim1020/PIAIC-Artifical-Intelligence?logo=GitHub&style=flat-square)
-![GitHub commit activity](https://img.shields.io/github/last-commit/qasim1020/PIAIC-Artifical-Intelligence?logo=GitHub&style=flat-square)
-![GitHub contributors](https://img.shields.io/github/contributors/qasim1020/PIAIC-Artifical-Intelligence?color=green&style=flat-square)
-![GitHub stars](https://img.shields.io/packagist/stars/qasim1020/PIAIC-Artifical-Intelligence?color=green&logo=GitHub)
+![GitHub last commit](https://img.shields.io/github/last-commit/qasim1020/PIAIC-Artificial-Intelligence?logo=GitHub&style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/qasim1020/PIAIC-Artificial-Intelligence?color=green&logo=GitHub&style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/qasim1020/PIAIC-Artificial-Intelligence?color=green&logo=GitHub&style=flat-square)
+![GitHub stars](https://img.shields.io/packagist/stars/qasim1020/PIAIC-Artificial-Intelligence?color=green&logo=GitHub&style=flat-square)
 ![GitHub](https://img.shields.io/twitter/url?label=GitHub&logo=GitHub&style=social&url=https%3A%2F%2Fgithub.com%2Fqasim1020)
 ![LinkedIn Follow](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fqasim-hassan%2F)
 
@@ -25,22 +25,22 @@
 </p>
 <h1 align="left">
     <a href="https://github.com/qasim1020/PIAIC-Artifical-Intelligence">
-        <img src="https://github.com/qasim1020/PIAIC-Artifical-Intelligence/blob/test/Images/Git.png">
+        <img src="https://github.com/qasim1020/qasim1020/PIAIC-Artificial-Intelligence/blob/master/Images/Git.png">
     </a>   
 </h1>
 <h1 align="right">
     <a href="https://github.com/qasim1020/PIAIC-Artifical-Intelligence">
-        <img src="https://github.com/qasim1020/PIAIC-Artifical-Intelligence/blob/test/Images/OOP_Python.png">
+        <img src="https://github.com/qasim1020/qasim1020/PIAIC-Artificial-Intelligence/blob/master/Images/OOP_Python.png">
     </a>   
 </h1>
 <h1 align="left">
     <a href="https://github.com/qasim1020/PIAIC-Artifical-Intelligence">
-        <img src="https://github.com/qasim1020/PIAIC-Artifical-Intelligence/blob/test/Images/Linear%20Algebra%20%26%20Statics.png">
+        <img src="https://github.com/qasim1020/qasim1020/PIAIC-Artificial-Intelligence/blob/master/Images/Linear%20Algebra%20%26%20Statics.png">
     </a>   
 </h1>
 <h1 align="right">
     <a href="https://github.com/qasim1020/PIAIC-Artifical-Intelligence">
-        <img src="https://github.com/qasim1020/PIAIC-Artifical-Intelligence/blob/test/Images/Anaconda%20Libraries.png">
+        <img src="https://github.com/qasim1020/qasim1020/PIAIC-Artificial-Intelligence/blob/master/Images/Anaconda%20Libraries.png">
     </a>   
 </h1>
 <h1 align="left">
@@ -50,35 +50,35 @@
 </h1>
 <h1 align="right">
     <a href="https://github.com/qasim1020/PIAIC-Artifical-Intelligence">
-        <img src="https://github.com/qasim1020/PIAIC-Artifical-Intelligence/blob/test/Images/Deep%20Learning%20With%20Keras.png">
+        <img src="https://github.com/qasim1020/qasim1020/PIAIC-Artificial-Intelligence/blob/masterImages/Deep%20Learning%20With%20Keras.png">
     </a>   
 </h1>
 <h1 align="left">
     <a href="https://github.com/qasim1020/PIAIC-Artifical-Intelligence">
-        <img src="https://github.com/qasim1020/PIAIC-Artifical-Intelligence/blob/test/Images/linux.png">
+        <img src="https://github.com/qasim1020/qasim1020/PIAIC-Artificial-Intelligence/blob/master/Images/linux.png">
     </a>   
 </h1>
 <h1 align="right">
     <a href="https://github.com/qasim1020/PIAIC-Artifical-Intelligence">
-        <img src="https://github.com/qasim1020/PIAIC-Artifical-Intelligence/blob/test/Images/Docker.png">
+        <img src="https://github.com/qasim1020/qasim1020/PIAIC-Artificial-Intelligence/blob/master/Images/Docker.png">
     </a>   
 </h1>
 </h1>
 <h1 align="left">
     <a href="https://github.com/qasim1020/PIAIC-Artifical-Intelligence">
-        <img src="https://github.com/qasim1020/PIAIC-Artifical-Intelligence/blob/test/Images/Micro-services.png">
+        <img src="https://github.com/qasim1020/qasim1020/PIAIC-Artificial-Intelligence/blob/master/Images/Micro-services.png">
     </a>   
 </h1>
 </h1>
 <h1 align="right">
     <a href="https://github.com/qasim1020/PIAIC-Artifical-Intelligence">
-        <img src="https://github.com/qasim1020/PIAIC-Artifical-Intelligence/blob/test/Images/Deployment.png">
+        <img src="https://github.com/qasim1020/qasim1020/PIAIC-Artificial-Intelligence/blob/master/Images/Deployment.png">
     </a>   
 </h1>
 </h1>
 <h1 align="left">
     <a href="https://github.com/qasim1020/PIAIC-Artifical-Intelligence">
-        <img src="https://github.com/qasim1020/PIAIC-Artifical-Intelligence/blob/test/Images/Ai%20in%20Practise.png">
+        <img src="https://github.com/qasim1020/qasim1020/PIAIC-Artificial-Intelligence/blob/master/Images/Ai%20in%20Practise.png">
     </a>   
 </h1>
 <h2>Contribution Guideline</h2>

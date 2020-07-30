@@ -45,12 +45,12 @@
 </h1>
 <h1 align="left">
     <a href="https://github.com/qasim1020/PIAIC-Artifical-Intelligence">
-        <img src="https://github.com/qasim1020/PIAIC-Artifical-Intelligence/blob/test/Images/Data%20Science%20Essentials.png">
+        <img src="https://github.com/qasim1020/PIAIC-Artificial-Intelligence/blob/master/Images/Data%20Science%20Essentials.png">
     </a>   
 </h1>
 <h1 align="right">
     <a href="https://github.com/qasim1020/PIAIC-Artifical-Intelligence">
-        <img src="https://github.com/qasim1020/PIAIC-Artificial-Intelligence/blob/masterImages/Deep%20Learning%20With%20Keras.png">
+        <img src="https://github.com/qasim1020/PIAIC-Artificial-Intelligence/blob/master/Images/Deep%20Learning%20With%20Keras.png">
     </a>   
 </h1>
 <h1 align="left">

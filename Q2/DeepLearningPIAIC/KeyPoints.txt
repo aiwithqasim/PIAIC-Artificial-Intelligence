@@ -1,0 +1,5 @@
+difference between training and testing set is know as overfitting
+train and test best = ideal
+tarin and test bad = underfit
+train best and test bad = overfit
+hyperparameter is the things epoch or all others

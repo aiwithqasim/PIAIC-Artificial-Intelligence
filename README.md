@@ -87,7 +87,7 @@ If you want to add something then your commit message should be like: <b>added [
 
 ##### 🌟 Please star the repo so that it gets maximum exposure and more people can benefit from it!
 
-<p><i>mportant Notice: All product names, logos, and brands are property of their respective owners. All company, product and service names used in this repository are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.</i></p>
+<p><i>Important Notice: All product names, logos, and brands are property of their respective owners. All company, product and service names used in this repository are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.</i></p>
 
 <h2>Link</h2>
 <p>

@@ -85,7 +85,7 @@
 Feel free to open a PR if you feel like something needs to be added or may be you want to suggest something.
 If you want to add something then your commit message should be like: <b>added [resource_name] to [section_name]</b>
 
-##### 🌟 Please star the repo so that it gets maximum exposure and more people can benefit from it!
+##### 🌟 Please star the repo so that it gets maximum exposure and more people can benefit from it ...
 
 <p><i>Important Notice: All product names, logos, and brands are property of their respective owners. All company, product and service names used in this repository are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.</i></p>
 

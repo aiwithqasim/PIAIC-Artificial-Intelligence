@@ -1,37 +1,97 @@
-## Welcome to GitHub Pages
+<h1 align="center">
+    <a href="https://github.com/qasim1020/PIAIC-Artifical-Intelligence">
+        <img src="https://github.com/qasim1020/PIAIC-Artificial-Intelligence/blob/master/Images/logo.png">
+    </a>
+    
+  <br/>
+  <br/>
 
-You can use the [editor on GitHub](https://github.com/aiwithqasim/PIAIC-Artificial-Intelligence/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![GitHub last commit](https://img.shields.io/github/last-commit/qasim1020/PIAIC-Artificial-Intelligence?logo=GitHub&style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/qasim1020/PIAIC-Artificial-Intelligence?color=green&logo=GitHub&style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/qasim1020/PIAIC-Artificial-Intelligence?color=green&logo=GitHub&style=flat-square)
+![GitHub stars](https://img.shields.io/packagist/stars/qasim1020/PIAIC-Artificial-Intelligence?color=green&logo=GitHub&style=flat-square)
+![GitHub](https://img.shields.io/twitter/url?label=GitHub&logo=GitHub&style=social&url=https%3A%2F%2Fgithub.com%2Fqasim1020)
+![LinkedIn Follow](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fqasim-hassan%2F)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</h1>
 
-### Markdown
+<h2>Artificial Intelligence</h2>
+<p>
+   A one year program desgined for absolute beginner's who are intuistic toward Artificial Intelligence. Getting PAKISTAN ready for the new era of computing enalbled by the raise of AI.This Open source is Project is for all community who want to be the part of this OPEN SOURCE project </p>
+   
+<h2>Program Structure</h2>
+<p>    
+    In this AI program skills which are included are Data Science, Machine Learning, and Deep Learning.
+</p>
+<h1 align="left">
+    <a href="https://github.com/qasim1020/PIAIC-Artifical-Intelligence">
+        <img src="https://github.com/qasim1020/PIAIC-Artificial-Intelligence/blob/master/Images/Git.png">
+    </a>   
+</h1>
+<h1 align="right">
+    <a href="https://github.com/qasim1020/PIAIC-Artifical-Intelligence">
+        <img src="https://github.com/qasim1020/PIAIC-Artificial-Intelligence/blob/master/Images/OOP_Python.png">
+    </a>   
+</h1>
+<h1 align="left">
+    <a href="https://github.com/qasim1020/PIAIC-Artifical-Intelligence">
+        <img src="https://github.com/qasim1020/PIAIC-Artificial-Intelligence/blob/master/Images/Linear%20Algebra%20%26%20Statics.png">
+    </a>   
+</h1>
+<h1 align="right">
+    <a href="https://github.com/qasim1020/PIAIC-Artifical-Intelligence">
+        <img src="https://github.com/qasim1020/PIAIC-Artificial-Intelligence/blob/master/Images/Anaconda%20Libraries.png">
+    </a>   
+</h1>
+<h1 align="left">
+    <a href="https://github.com/qasim1020/PIAIC-Artifical-Intelligence">
+        <img src="https://github.com/qasim1020/PIAIC-Artificial-Intelligence/blob/master/Images/Data%20Science%20Essentials.png">
+    </a>   
+</h1>
+<h1 align="right">
+    <a href="https://github.com/qasim1020/PIAIC-Artifical-Intelligence">
+        <img src="https://github.com/qasim1020/PIAIC-Artificial-Intelligence/blob/master/Images/Deep%20Learning%20With%20Keras.png">
+    </a>   
+</h1>
+<h1 align="left">
+    <a href="https://github.com/qasim1020/PIAIC-Artifical-Intelligence">
+        <img src="https://github.com/qasim1020/PIAIC-Artificial-Intelligence/blob/master/Images/linux.png">
+    </a>   
+</h1>
+<h1 align="right">
+    <a href="https://github.com/qasim1020/PIAIC-Artifical-Intelligence">
+        <img src="https://github.com/qasim1020/PIAIC-Artificial-Intelligence/blob/master/Images/Docker.png">
+    </a>   
+</h1>
+</h1>
+<h1 align="left">
+    <a href="https://github.com/qasim1020/PIAIC-Artifical-Intelligence">
+        <img src="https://github.com/qasim1020/PIAIC-Artificial-Intelligence/blob/master/Images/Micro-services.png">
+    </a>   
+</h1>
+</h1>
+<h1 align="right">
+    <a href="https://github.com/qasim1020/PIAIC-Artifical-Intelligence">
+        <img src="https://github.com/qasim1020/PIAIC-Artificial-Intelligence/blob/master/Images/Deployment.png">
+    </a>   
+</h1>
+</h1>
+<h1 align="left">
+    <a href="https://github.com/qasim1020/PIAIC-Artifical-Intelligence">
+        <img src="https://github.com/qasim1020/PIAIC-Artificial-Intelligence/blob/master/Images/Ai%20in%20Practise.png">
+    </a>   
+</h1>
+<h2>Contribution Guideline</h2>
+Feel free to open a PR if you feel like something needs to be added or may be you want to suggest something.
+If you want to add something then your commit message should be like: <b>added [resource_name] to [section_name]</b>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##### 🌟 Please star the repo so that it gets maximum exposure and more people can benefit from it ...
 
-```markdown
-Syntax highlighted code block
+<p><i>Important Notice: All product names, logos, and brands are property of their respective owners. All company, product and service names used in this repository are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.</i></p>
 
-# Header 1
-## Header 2
-### Header 3
+<h2>Link</h2>
+<p>
+    link of <a href="https://www.piaic.org/artificial-inteligence">PIAIC</a>
+</p>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aiwithqasim/PIAIC-Artificial-Intelligence/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
